@@ -6,7 +6,6 @@ function generateCaptcha() {
   let str = a.toString();
 
   let num1 = str.charAt(2);
-  console.log(num1);
   let num2 = str.charAt(3);
   let num3 = str.charAt(4);
   let num4 = str.charAt(5);
